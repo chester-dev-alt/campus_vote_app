@@ -1,26 +1,17 @@
-## Campus Vote App
+# nust_voting_system
 
-A secure mobile voting application for university elections.
-
-## About
-This project is developed as part of SCS 2210: Mobile Application Development.
-
-## Team
-Built by a team of 10 developers with specialized roles in:
-- Frontend Development (Flutter)
-- Backend Development
-- UI/UX Design
-- Database Management
-- Security & Authentication
-- QA Testing
-- DevOps
-- And more!
-
-## Features
-- Secure student authentication
-- Real-time vote counting
-- Cross-platform (Android & iOS)
-- Privacy-compliant architecture
+A new Flutter project.
 
 ## Getting Started
-More details coming soon...
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
