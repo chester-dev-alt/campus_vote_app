@@ -1,0 +1,28 @@
+name: nust_voting_system
+description: A comprehensive voting system for NUST Student Government Elections
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Local storage for voting data
+  shared_preferences: ^2.2.2
+ 
+  mobile_scanner: ^4.0.1
+  # Cupertino icons for iOS style icons
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  # Flutter lints for code quality
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
