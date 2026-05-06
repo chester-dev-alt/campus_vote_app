@@ -1,18 +1,14 @@
-﻿# Firebase Config (SENSITIVE!)
-android/app/google-services.json
-ios/Runner/GoogleService-Info.plist
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
 
-# Build files
-build/
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-.packages
-
-# IDE
-.idea/
-*.iml
-*.local.properties
-
-# Secrets
-*.env
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
