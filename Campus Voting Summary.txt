@@ -1,0 +1,62 @@
+Campus Voting Application – Project Summary
+
+Project Manager: Blessing Mhlanga
+
+The Campus Voting Application project was developed to provide a secure, efficient, and transparent digital voting platform for university students. As the Project Manager, I was responsible for coordinating a team of 10 members, ensuring smooth communication, task allocation, and timely completion of project milestones.
+
+From the beginning, the project followed an organized development lifecycle, including planning, design, implementation, testing, and deployment. Regular team meetings were conducted to track progress, resolve challenges, and ensure alignment with project objectives.
+
+👥 Project Team & Roles
+1. Blessing Mhlanga – Project Manager & Coordinator
+
+Oversaw the entire project timeline, organized meetings, assigned tasks, and ensured all deliverables were completed on time. Acted as the main communication link among team members.
+
+2. Alex N Moyo  – UI/UX Designer
+
+Designed intuitive user interfaces, created wireframes and prototypes, and ensured the application followed Material Design principles for a clean and user-friendly experience.
+
+3. Tinashe Nyenyesa – Frontend Developer (Flutter/Dart)
+
+Developed the mobile application interface using Flutter, implemented navigation, widgets, and ensured compatibility across Android and iOS platforms.
+
+4. Russell Mashinya – Backend Developer
+
+Built server-side logic and APIs, handled authentication systems, and implemented core voting functionality and business rules.
+
+5. Laura Mkandla – Database Administrator
+
+Designed and managed the database structure for users, candidates, and votes, ensuring data integrity, storage efficiency, and secure backups.
+
+6. Natasha C Kanyungwe – Security & Authentication Specialist
+
+Implemented secure login systems, ensured data encryption, prevented duplicate voting, and safeguarded user privacy.
+
+7. Nothando C Sithole – Quality Assurance (QA) & Tester
+
+Conducted rigorous testing, created test cases, identified bugs, and ensured the application functioned correctly across multiple devices.
+
+8. Synate Roben – Documentation & Research Lead
+
+Prepared technical documentation, user manuals, and project reports, while researching best practices to guide development.
+
+9.  Chester Mhlanga– Version Control & DevOps Manager
+
+Managed the GitHub repository, handled version control, code integration, and set up CI/CD pipelines for smooth deployment.
+
+10. Melissa Dzambacheka – Data Analyst & Reporting Specialist
+
+Developed the voting analytics dashboard, generated real-time election results, and created an admin panel for monitoring voting progress.
+
+⚙️ Key Features of the Application
+Secure student login and authentication
+Real-time voting system
+Admin panel for managing candidates and elections
+Live results and analytics dashboard
+Cross-platform mobile compatibility
+🏁 Project Outcome
+
+The project was successfully completed within the set timeline, delivering a functional and user-friendly voting system. The collaboration among team members, combined with effective project management and the use of modern development tools, ensured the success of the application.
+
+✅ Conclusion
+
+As the Project Manager, I ensured that all team members worked collaboratively and efficiently toward a common goal. This project not only delivered a practical solution for campus elections but also strengthened teamwork, technical skills, and project coordination experience.
