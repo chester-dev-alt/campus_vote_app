@@ -1,30 +1,30 @@
-name: nust_voting_system
-description: A comprehensive voting system for NUST Student Government Elections
+name: campus_vote_app
+description: Campus Governance and Voting Platform
 publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: '>=3.0.0 <4.0.0'  # ← FIX THIS LINE
 
 dependencies:
   flutter:
     sdk: flutter
-  
-  # Local storage for voting data
-  shared_preferences: ^2.2.2
- 
-  mobile_scanner: ^4.0.1
-  # Cupertino icons for iOS style icons
-  cupertino_icons: ^1.0.6
-  sqflite: ^2.3.0
-  path: ^1.9.0
+
+  cupertino_icons: 1.0.6
+
+  # Firebase
+  firebase_core: 3.6.0
+  firebase_auth: 5.3.1
+  cloud_firestore: 5.4.4
+
+  # Other packages
+  go_router: 14.2.7
+  provider: 6.1.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  
-  # Flutter lints for code quality
-  flutter_lints: ^3.0.0
+  flutter_lints: 4.0.0
 
 flutter:
   uses-material-design: true
